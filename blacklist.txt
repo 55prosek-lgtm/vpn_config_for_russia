@@ -1,20 +1,35 @@
-🇸🇪SE | Hysteria2
-hysteria2://77238c49bd20e407f05e0c073ad08fdb@dd.openaccessnode.com:989?sni=dd.ircybersec.org&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-King-Reza-Pahlavi#%F0%9F%87%B8%F0%9F%87%AASE%20%7C%20Hysteria2
+New servers (05.12.25)
+
 
 🇳🇱NL | ShadowSocks
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.194:8080?#%F0%9F%87%B3%F0%9F%87%B1NL%20%7C%20ShadowSocks
 
-🇺🇸US | Hysteria2
-hysteria2://dongtaiwang.com@208.87.243.187:22222?sni=www.bing.com&insecure=1&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US%20%7C%20Hysteria2
-
-🇺🇸US | Hysteria2
-hysteria2://ae5338ae-9a70-58c9-3d47-7d54a5675715@ef72d68d-t6ngg0-tc9wl2-py5w.us.hyhuawei.com:443?sni=ef72d68d-t6ngg0-tc9wl2-py5w.us.hyhuawei.com&insecure=1&allowInsecure=1&mport=30000-60000#%F0%9F%87%BA%F0%9F%87%B8US%20%7C%20Hysteria2
+🇳🇱NL | ShadowSocks
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080?#%F0%9F%87%B3%F0%9F%87%B1NL%20%7C%20ShadowSocks
 
 🇳🇱NL | ShadowSocks
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.189:8080?#%F0%9F%87%B3%F0%9F%87%B1NL%20%7C%20ShadowSocks
+
+🇨🇦CA | ShadowSocks
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@23.95.76.147:990?#%F0%9F%87%A8%F0%9F%87%A6CA%20%7C%20ShadowSocks
+
+🇳🇱NL | ShadowSocks
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.183:8080?#%F0%9F%87%B3%F0%9F%87%B1NL%20%7C%20ShadowSocks
 
 🇳🇱NL | ShadowSocks
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.191:8080?#%F0%9F%87%B3%F0%9F%87%B1NL%20%7C%20ShadowSocks
 
 🇩🇰DK | ShadowSocks
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTRGFGSVNyM0dmbTZZa0JTU3JGSUV3d1dqRUVVN1hibw@95.164.10.228:443?#%F0%9F%87%A9%F0%9F%87%B0DK%20%7C%20ShadowSocks
+
+🇰🇿KZ | ShadowSocks
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0U2FDSWF6bGd1bVlrTThGa1B6bG13anB5V0JEWkZCaw@103.106.3.82:443?#%F0%9F%87%B0%F0%9F%87%BFKZ%20%7C%20ShadowSocks
+
+🇭🇰HK | ShadowSocks
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@45.82.252.109:990?#%F0%9F%87%AD%F0%9F%87%B0HK%20%7C%20ShadowSocks
+
+🇬🇧GB | VMESS
+vmess://eyJ2IjoiMiIsInBzIjoi8J+Gr/Cfh65HQiB8IFZNRVNTIiwiYWRkIjoiNTcuMTI5LjEzMi4yMjMiLCJwb3J0IjoiODAiLCJpZCI6ImEyNWNiZjExLTI5MDgtNGExYi1hM2E4LTlhNTcxNzc3ZGNhMyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJnb29nbGUuY29tIiwicGF0aCI6Ii92bWVzcy8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIiLCJpbnNlY3VyZSI6IjAifQ==#%F0%9F%87%AC%F0%9F%87%A7GB%20%7C%20VMESS
+
+🇭🇷HR | ShadowSocks
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnWE9YazJGSndzejlQNm5YSUlDdUROT3FGOWdXWDFkbg@185.156.110.92:443?#%F0%9F%87%AD%F0%9F%87%B7HR%20%7C%20ShadowSocks
