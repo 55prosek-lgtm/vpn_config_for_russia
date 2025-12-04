@@ -1,35 +1,20 @@
-🇳🇱NL | ShadowSocks
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.233:8080?#%F0%9F%87%B3%F0%9F%87%B1NL%20%7C%20ShadowSocks
-
-🇦🇪AE | ShadowSocks
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@151.242.251.147:8080?#%F0%9F%87%A6%F0%9F%87%AAAE%20%7C%20ShadowSocks
-
-
-🇨🇭CH | ShadowSocks
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080?#%F0%9F%87%A8%F0%9F%87%ADCH%20%7C%20ShadowSocks
+🇸🇪SE | Hysteria2
+hysteria2://77238c49bd20e407f05e0c073ad08fdb@dd.openaccessnode.com:989?sni=dd.ircybersec.org&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-King-Reza-Pahlavi#%F0%9F%87%B8%F0%9F%87%AASE%20%7C%20Hysteria2
 
 🇳🇱NL | ShadowSocks
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.177:8080?#%F0%9F%87%B3%F0%9F%87%B1NL%20%7C%20ShadowSocks
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.194:8080?#%F0%9F%87%B3%F0%9F%87%B1NL%20%7C%20ShadowSocks
 
-🇨🇭CH | ShadowSocks
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.183:8080?#%F0%9F%87%A8%F0%9F%87%ADCH%20%7C%20ShadowSocks
+🇺🇸US | Hysteria2
+hysteria2://dongtaiwang.com@208.87.243.187:22222?sni=www.bing.com&insecure=1&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US%20%7C%20Hysteria2
 
-
-
-🇳🇱NL | ShadowSocks
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.160:8080?#%F0%9F%87%B3%F0%9F%87%B1NL%20%7C%20ShadowSocks
+🇺🇸US | Hysteria2
+hysteria2://ae5338ae-9a70-58c9-3d47-7d54a5675715@ef72d68d-t6ngg0-tc9wl2-py5w.us.hyhuawei.com:443?sni=ef72d68d-t6ngg0-tc9wl2-py5w.us.hyhuawei.com&insecure=1&allowInsecure=1&mport=30000-60000#%F0%9F%87%BA%F0%9F%87%B8US%20%7C%20Hysteria2
 
 🇳🇱NL | ShadowSocks
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.208:8080?#%F0%9F%87%B3%F0%9F%87%B1NL%20%7C%20ShadowSocks
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.189:8080?#%F0%9F%87%B3%F0%9F%87%B1NL%20%7C%20ShadowSocks
 
-🇨🇭CH | ShadowSocks
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080?#%F0%9F%87%A8%F0%9F%87%ADCH%20%7C%20ShadowSocks
+🇳🇱NL | ShadowSocks
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.191:8080?#%F0%9F%87%B3%F0%9F%87%B1NL%20%7C%20ShadowSocks
 
-🇲🇾MY | VMESS
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HsvCfh75NWSB8IFZNRVNTIiwiYWRkIjoiNDUuODkuMTA3LjUxIiwicG9ydCI6IjIwNTIxIiwiaWQiOiIzZGJhYTVjMy1mNDkzLTRhZDEtOWM1ZC04NTI1ZjQ5NjJhNmMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIiLCJpbnNlY3VyZSI6IjAifQ==#%F0%9F%87%B2%F0%9F%87%BEUY%20%7C%20VMESS
-
-🇯🇵JP | VMESS
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HgPCfh6dKUCB8IFZNRVNTIiwiYWRkIjoiMTY1LjE0MC4yMTYuMTQxIiwicG9ydCI6IjQ0MyIsImlkIjoiZTdkNzJhOGQtMjZmMi00YjU0LWIzNjYtMGM0M2UwYmNiYTdkIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIiwiaW5zZWN1cmUiOiIwIn0=#%F0%9F%87%AF%F0%9F%87%B5JVA%20%7C%20VMESS
-
-🇩🇪DE | VMESS
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HqfCfh6pERSB8IFZNRVNTIiwiYWRkIjoiODUuMTk1LjEwMS4xMjIiLCJwb3J0IjoiNDA4NzgiLCJpZCI6ImYzZDQxNjdlLWIxNWUtNGU0Ni04MmU5LTkyODZlZjkzZmRhNyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiIsImluc2VjdXJlIjoiMCJ9#%F0%9F%87%A9%F0%9F%87%AADE%20%7C%20VMESS
+🇩🇰DK | ShadowSocks
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTRGFGSVNyM0dmbTZZa0JTU3JGSUV3d1dqRUVVN1hibw@95.164.10.228:443?#%F0%9F%87%A9%F0%9F%87%B0DK%20%7C%20ShadowSocks
