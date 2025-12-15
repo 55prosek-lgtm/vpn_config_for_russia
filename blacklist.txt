@@ -1,77 +1,50 @@
-🇩🇰DK | ShadowSocks
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTRGFGSVNyM0dmbTZZa0JTU3JGSUV3d1dqRUVVN1hibw@95.164.10.228:443?#%F0%9F%87%A9%F0%9F%87%B0DK%20%7C%20ShadowSocks
+🇳🇱NL | Shadowsocks
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.191:8080?#%F0%9F%87%B3%F0%9F%87%B1NL%20%7C%20Shadowsocks
 
-🇷🇺RU | VMESS
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HsvCfh75SVSB8IFZNRVNTIiwiYWRkIjoiNDUuMTM2LjEyLjM3IiwicG9ydCI6IjIwNTIxIiwiaWQiOiIwOTBkMGJkOS1mOWM0LTRjM2ItOGFhZS1mZmE2Nzg3NjU5MzUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJob3N0IjoiIiwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIiLCJpbnNlY3VyZSI6IjAifQ==#%F0%9F%87%B7%F0%9F%87%BARU%20%7C%20VMESS
+🇺🇸US | Shadowsocks
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwUW1uQzAzSk9iYlBoZGg1RkJKSGdENmpuVExjaHNSQQ@95.164.116.33:443?#%F0%9F%87%BA%F0%9F%87%B8US%20%7C%20Shadowsocks
 
-🇷🇺RU | Hysteria2
-hysteria2://SNItest@37.18.14.169:443?sni=megafon.ru&insecure=1&allowInsecure=1#%F0%9F%87%B7%F0%9F%87%BARU%20%7C%20Hysteria2
+🇱🇻LV | Shadowsocks
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VkFjbGw0UDh4UFRVVlZ0SGVTVDNvblJtTG9WSUJTVQ@94.131.104.147:443?#%F0%9F%87%B1%F0%9F%87%BFLV%20%7C%20Shadowsocks
 
-🇺🇸US | ShadowSocks
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVQU1WdEhtNTR1YWhkNlNpTjVXY0QxNnJzUFNkYWJQRw@23.95.72.81:443?#%F0%9F%87%BA%F0%9F%87%B8US%20%7C%20ShadowSocks
+🇺🇸US | Hysteria2 [SNI]
+hysteria2://dongtaiwang.com@208.87.243.187:22222?sni=%F0%9F%94%92&insecure=1&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US%20%7C%20Hysteria2%20%5BSNI%5D
 
-🇱🇻LV | ShadowSocks
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VkFjbGw0UDh4UFRVVlZ0SGVTVDNvblJtTG9WSUJTVQ@94.131.104.147:443?#%F0%9F%87%B1%F0%9F%87%BBLV%20%7C%20ShadowSocks
+🇷🇸RS | Shadowsocks
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppeFB5bUZtYTZQN1U0MXdrOU1OUDd6blBudmF4M21qZA@45.89.55.173:443?#%F0%9F%87%B7%F0%9F%87%B8RS%20%7C%20Shadowsocks
 
-🇺🇸US | ShadowSocks
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@173.244.56.9:443?#%F0%9F%87%BA%F0%9F%87%B8US%20%7C%20ShadowSocks
+🇺🇸US | Hysteria2 [SNI]
+hysteria2://dongtaiwang.com@208.87.243.187:22222?sni=www.bing.com&insecure=1&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US%20%7C%20Hysteria2%20%5BSNI%5D
 
-🇷🇺RU | VLESS Reality
-vless://4a3ece53-6000-4ba3-a9fa-fd0d7ba61cf3@94.228.210.76:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=8453e5fd9af927&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BARU%20%7C%20VLESS%20Reality
+🇳🇱NL | Shadowsocks
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.165:8080?#%F0%9F%87%B3%F0%9F%87%B1NL%20%7C%20Shadowsocks
 
-🇷🇸RS | VLESS Reality
-vless://4a3ece53-6000-4ba3-a9fa-fd0d7ba61cf3@213.165.60.36:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=31&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%B8RS%20%7C%20VLESS%20Reality
+🇫🇮FI | Shadowsocks
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5WG9pRURGTVZvckdVZUtsYTc3azdzRVhDZVNFNXIyQQ@45.15.127.49:443?#%F0%9F%87%AB%F0%9F%87%AEFI%20%7C%20Shadowsocks
 
-🇵🇱PL | VLESS Reality
-vless://4a3ece53-6000-4ba3-a9fa-fd0d7ba61cf3@151.115.123.226:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=d3b13f31&type=tcp&headerType=none#%F0%9F%87%B5%F0%9F%87%B1PL%20%7C%20VLESS%20Reality
+🇺🇸US | Hysteria2 [SNI]
+hysteria2://dongtaiwang.com@208.87.243.187:22222?sni=sberbank.ru&insecure=1&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US%20%7C%20Hysteria2%20%5BSNI%5D
 
-🇱🇻LV | VLESS TLS
-vless://26052074-f2a5-4335-b602-fe34633c71b1@185.145.245.204:443?encryption=none&security=tls&sni=lva.tunnelguard.ru&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=xhttp&path=%2F#%F0%9F%87%B1%F0%9F%87%BBLV%20%7C%20VLESS%20TLS
+🇭🇰HK | Shadowsocks
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@45.82.252.109:990?#%F0%9F%87%AD%F0%9F%87%B0HK%20%7C%20Shadowsocks
 
-🇹🇷TR | VLESS Reality
-vless://4a3ece53-6000-4ba3-a9fa-fd0d7ba61cf3@45.12.143.147:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=86e999a2cdc2&type=tcp&headerType=none#%F0%9F%87%B9%F0%9F%87%B7TR%20%7C%20VLESS%20Reality
+🇷🇺RU | Shadowsocks
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWVmxBZmY3N0NuQVU0M0FvYzVqMTVZ@90.156.203.62:5112?#%F0%9F%87%B7%F0%9F%87%BARU%20%7C%20Shadowsocks
 
-🇵🇱PL | VLESS Reality
-vless://4a3ece53-6000-4ba3-a9fa-fd0d7ba61cf3@151.115.123.226:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=f79448a30d&type=tcp&headerType=none#%F0%9F%87%B5%F0%9F%87%B1PL%20%7C%20VLESS%20Reality
+🇧🇷BR | Shadowsocks
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwbDJYdFIwcHp3a25RT0d3ZXdid1h0UFlEdzF6bjlWdQ@213.159.66.206:443?#%F0%9F%87%A7%F0%9F%87%B7BR%20%7C%20Shadowsocks
 
-🇭🇺HU | VLESS Reality
-vless://4a3ece53-6000-4ba3-a9fa-fd0d7ba61cf3@82.115.43.39:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=48720c&type=tcp&headerType=none#%F0%9F%87%AD%F0%9F%87%BAHU%20%7C%20VLESS%20Reality
+🇨🇦CA | Shadowsocks
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTNmpVSzlGdzVmTUhnTnFscVhPYkhaV3Y4VGY0bkVrbQ@193.203.203.66:443?#%F0%9F%87%A8%F0%9F%87%A6CA%20%7C%20Shadowsocks
 
-🇱🇹LT | VLESS Reality
-vless://4a3ece53-6000-4ba3-a9fa-fd0d7ba61cf3@195.66.25.169:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=31&type=tcp&headerType=none#%F0%9F%87%B1%F0%9F%87%B9LT%20%7C%20VLESS%20Reality
+🇸🇮SI | Shadowsocks
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIZkFpeXJkRmJLSnVLSVFrR2p2SnJERmVmbUg4WURTQw@45.83.131.43:443?#%F0%9F%87%B8%F0%9F%87%AESI%20%7C%20Shadowsocks
 
-🇷🇸RS | VLESS Reality
-vless://4a3ece53-6000-4ba3-a9fa-fd0d7ba61cf3@213.165.60.36:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=f79448a30d&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%B8RS%20%7C%20VLESS%20Reality
+🇮🇱IL | Shadowsocks
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5Q2JRNGJyeTRvdGZpZks3b2VsNzFOYVhwUEw5cFlKYg@89.221.225.15:443?#%F0%9F%87%AE%F0%9F%87%B1IL%20%7C%20Shadowsocks
 
-🇮🇱IL | VLESS Reality
-vless://b00c2095-f23d-45c2-9412-461c279c1be3@95.215.108.108:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=il.fasssst.online&fp=chrome&pbk=GLI6DDt-Dds1U7QrKhCYbkJD5ACoXfx0B8klNZstABU&sid=87bebd2641ae&type=tcp&headerType=none#%F0%9F%87%AE%F0%9F%87%B1IL%20%7C%20VLESS%20Reality
+🇦🇺AU | Shadowsocks
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTVnQ2WmlXelJJMVl4ZWlnNHhCWndpSk90NmNlWHdHYQ@95.111.222.113:443?#%F0%9F%87%A6%F0%9F%87%BAAU%20%7C%20Shadowsocks
 
-🇱🇻LV | VLESS Reality
-vless://9936ae5c-91cd-4c8a-80e9-5118a209a7e4@188.253.21.106:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=firefox&pbk=4JvLKnuuAs4h0cQ1j_S4SAuXQQ579D7Wr1sGBjmH-Ws&sid=73d3fec4&type=tcp&headerType=none#%F0%9F%87%B1%F0%9F%87%BBLV%20%7C%20VLESS%20Reality
-
-🇱🇻LV | VLESS Reality
-vless://b89d0b93-0ce0-424d-b9ab-92102acd5b84@85.159.228.132:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=mediarush.xyz&fp=chrome&pbk=Xhw97dnfriknd-7X9PeeTfcYW1a-CP-atu_EcGNWFiY&sid=3fde628f5ea2ba6f&type=tcp&headerType=none#%F0%9F%87%B1%F0%9F%87%BBLV%20%7C%20VLESS%20Reality
-
-🇱🇻LV | VLESS TLS
-vless://90dd3391-6963-4fba-a1e1-5acb8a2ff0ba@185.145.245.204:443?encryption=none&security=tls&sni=lva.tunnelguard.ru&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=xhttp&host=lva.tunnelguard.ru&path=%2F&mode=auto#%F0%9F%87%B1%F0%9F%87%BBLV%20%7C%20VLESS%20TLS
-
-🇷🇸RS | VLESS Reality
-vless://96b569fe-4b6f-4954-b184-5bb5e12afb75@213.176.19.55:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=dri.fasssst.online&fp=chrome&pbk=rs4uhTaen0An_ULFHgIk6vp-4E9ZmFeJ8FowNJVHZ0k&sid=8ab6&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%B8RS%20%7C%20VLESS%20Reality
-
-🇷🇸RS | VLESS Reality
-vless://54539333-1bb0-4996-ba7f-dc021f0f2c0b@213.176.19.56:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=knix.fasssst.online&fp=chrome&pbk=yBf3lX9epSJCxp9FxPHDmO-YOnSZKU6E_xLie74FFwU&sid=0a&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%B8RS%20%7C%20VLESS%20Reality
-
-🇷🇺RU | VLESS Reality
-vless://1dc60f16-1593-485e-949d-8459edba6430@92.53.107.193:27129?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=pqVSxW8Vukd7XiPZUQTd9ADNT2XBrCGJ4q2-7n6kQXQ&sid=d70393f0ad1c7552&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BARU%20%7C%20VLESS%20Reality
-
-🇷🇺RU | VLESS Reality
-vless://4a3ece53-6000-4ba3-a9fa-fd0d7ba61cf3@185.234.59.51:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=e499f276e7bd6420&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BARU%20%7C%20VLESS%20Reality
-
-🇮🇹IT | VLESS Reality
-vless://4a3ece53-6000-4ba3-a9fa-fd0d7ba61cf3@185.248.144.97:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=8453e5fd9af927&type=tcp&headerType=none#%F0%9F%87%AE%F0%9F%87%B9IT%20%7C%20VLESS%20Reality
-
-🇷🇴RO | VLESS Reality
-vless://4a3ece53-6000-4ba3-a9fa-fd0d7ba61cf3@81.180.93.45:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=e499f276e7bd6420&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%B4RO%20%7C%20VLESS%20Reality
-
-🇧🇬BG | VLESS Reality
-vless://4a3ece53-6000-4ba3-a9fa-fd0d7ba61cf3@146.19.80.115:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=175d&type=tcp&headerType=none#%F0%9F%87%A7%F0%9F%87%ACBG%20%7C%20VLESS%20Reality
+🇦🇲AM | Shadowsocks
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwTnFuWWYza0hlc09wQ2NoUnZVWnhmd1RhZlJzT2o3Zw@213.159.76.21:443?#%F0%9F%87%A6%F0%9F%87%B2AM%20%7C%20Shadowsocks
