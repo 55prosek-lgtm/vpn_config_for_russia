@@ -1,46 +1,67 @@
-New servers (17.12.24)
-
-🇺🇸US | VLESS Reality [Vision]
-vless://0ea84d1f-2687-467d-97dd-ed8d5e8f3f42@144.31.14.38:49755?encryption=none&flow=xtls-rprx-vision&security=reality&sni=web.max.ru&fp=chrome&pbk=mRAHp8TZKKn1-OieCe3djeBIzuJ-4Pqeu5Kpqmpq6Wg&sid=eb6a8e&spx=%2F&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8US%20%7C%20VLESS%20Reality%20%5BVision%5D
+New servers (19.12.24)
 
 🇷🇺RU | VLESS Reality [Vision]
-vless://mega2499@5.129.249.134:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ir.ozone.ru&fp=chrome&pbk=F14RpPKCKo_qPcW7EFVu1M18JsAT8c04O08cIi0Ghg4&sid=ab1cd2&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BARU%20%7C%20VLESS%20Reality%20%5BVision%5D
+vless://4d7a559b-6379-41a7-9e51-41ef759846aa@158.160.197.118:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ya.ru&fp=chrome&pbk=TrAxIFIhSCc4C5IWnGvvAs2cSD_mVag1MlTCJPeLkGg&sid=b9ceed646f470d2d&spx=%2F&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BARU%20%7C%20VLESS%20Reality%20%5BVision%5D
 
 🇷🇺RU | VLESS Reality [Vision]
-vless://5d338ff0-5826-55e0-a603-699b018d7498@5.129.249.134:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ir.ozone.ru&fp=chrome&pbk=F14RpPKCKo_qPcW7EFVu1M18JsAT8c04O08cIi0Ghg4&sid=ab1cd2&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BARU%20%7C%20VLESS%20Reality%20%5BVision%5D
+vless://eb7c7631-6c7c-4f34-a65a-974b4565d01d@217.16.24.170:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api-maps.yandex.ru&fp=chrome&pbk=8OsJx6xuHcpL_5e1w0U4bMBa-icevDgvvzNwPwZbORQ&sid=5540e44a53c3d01c&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BARU%20%7C%20VLESS%20Reality%20%5BVision%5D
+
+🇷🇺RU | VLESS Reality [gRPC]
+vless://c495cf08-e046-4311-aa4b-82cc16576992@all.adr-cloud.ru:446?encryption=none&security=reality&sni=ads.x5.ru&pbk=mMaSUsOC5i3ErLDcaWW9UOOjG0fcKPCwVjzGS1wXQx8&sid=0512567389abcdef&type=grpc&authority=ads.x5.ru&serviceName=ads.x5.ru&mode=gun#%F0%9F%87%B7%F0%9F%87%BARU%20%7C%20VLESS%20Reality%20%5BgRPC%5D
+
+🇷🇺RU | VLESS TLS [XHTTP]
+vless://70ae56f6-8a31-4ab4-b2ed-67030167422c@128.75.228.190:443?encryption=none&security=tls&sni=ok.ufavpn.ru&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=xhttp&path=%2F&mode=auto#%F0%9F%87%B7%F0%9F%87%BARU%20%7C%20VLESS%20TLS%20%5BXHTTP%5D
 
 🇷🇺RU | VLESS Reality [Vision]
-vless://0072c3c2-ef1a-51f1-a80a-dff9decb850e@5.129.249.134:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ir.ozone.ru&fp=chrome&pbk=F14RpPKCKo_qPcW7EFVu1M18JsAT8c04O08cIi0Ghg4&sid=ab1cd2&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BARU%20%7C%20VLESS%20Reality%20%5BVision%5D
-
-🇺🇸US | VLESS Reality [Vision]
-vless://0ea84d1f-2687-467d-97dd-ed8d5e8f3f42@64.188.115.219:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=web.max.ru&fp=chrome&pbk=lH-huUA9Ek_XYglIopgfGL3lJ-qn8rXK8iG1tlXrxls&sid=1c&spx=%2F&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8US%20%7C%20VLESS%20Reality%20%5BVision%5D
-
-🇷🇺RU | VLESS Reality [Vision]
-vless://3bb8baff-2485-555e-808a-6d095ed97376@5.129.249.134:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ir.ozone.ru&fp=chrome&pbk=F14RpPKCKo_qPcW7EFVu1M18JsAT8c04O08cIi0Ghg4&sid=ab1cd2&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BARU%20%7C%20VLESS%20Reality%20%5BVision%5D
-
-🇷🇺RU | VLESS Reality [Vision]
-vless://020ba372-8c03-575c-9a7f-4eee0908b7a3@5.129.249.134:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ir.ozone.ru&fp=chrome&pbk=F14RpPKCKo_qPcW7EFVu1M18JsAT8c04O08cIi0Ghg4&sid=ab1cd2&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BARU%20%7C%20VLESS%20Reality%20%5BVision%5D
-
-🇷🇺RU | VLESS Reality [Vision]
-vless://eaca6b0a-9728-5766-8fb0-0be81c1b7c91@5.129.249.134:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ir.ozone.ru&fp=chrome&pbk=F14RpPKCKo_qPcW7EFVu1M18JsAT8c04O08cIi0Ghg4&sid=ab1cd2&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BARU%20%7C%20VLESS%20Reality%20%5BVision%5D
-
-🇷🇺RU | VLESS Reality [Vision]
-vless://mega210@5.129.249.134:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ir.ozone.ru&fp=chrome&pbk=F14RpPKCKo_qPcW7EFVu1M18JsAT8c04O08cIi0Ghg4&sid=ab1cd2&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BARU%20%7C%20VLESS%20Reality%20%5BVision%5D
-
-🇷🇺RU | VLESS Reality [Vision]
-vless://eb7c7631-6c7c-4f34-a65a-974b4565d01d@217.16.24.170:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api-maps.yandex.ru&fp=ios&pbk=8OsJx6xuHcpL_5e1w0U4bMBa-icevDgvvzNwPwZbORQ&sid=5540e44a53c3d01c&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BARU%20%7C%20VLESS%20Reality%20%5BVision%5D
-
-🇷🇺RU | VLESS Reality [Vision]
-vless://4184cd6e-804d-44dc-8d37-b68817403e36@31-wl.connect-opengate.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sun6-21.userapi.com&fp=qq&pbk=Q6JRONWjdrIo8SKVijY87Hqw1h7LRSnrZrCSf8Y93i4&sid=fc92a3ad6c2e1592&spx=%2F&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BARU%20%7C%20VLESS%20Reality%20%5BVision%5D
+vless://4d7a559b-6379-41a7-9e51-41ef759846aa@158.160.191.241:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ya.ru&fp=chrome&pbk=MofBU4YalVzrV7O_T5OmaUA5BmkITNw8qbkVSeOMvTE&sid=ed3eb3256dee971f&spx=%2F&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BARU%20%7C%20VLESS%20Reality%20%5BVision%5D
 
 🇷🇺RU | VLESS Reality [Vision]
 vless://a91e64f0-9295-499d-bf4a-661ad99d4938@217.16.24.170:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api-maps.yandex.ru&fp=ios&pbk=8OsJx6xuHcpL_5e1w0U4bMBa-icevDgvvzNwPwZbORQ&sid=5540e44a53c3d01c&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BARU%20%7C%20VLESS%20Reality%20%5BVision%5D
 
-🇷🇺RU | VLESS Reality [Vision]
-vless://eb7c7631-6c7c-4f34-a65a-974b4565d01d@217.16.24.170:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api-maps.yandex.ru&fp=chrome&pbk=8OsJx6xuHcpL_5e1w0U4bMBa-icevDgvvzNwPwZbORQ&sid=5540e44a53c3d01c&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BARU%20%7C%20VLESS%20Reality%20%5BVision%5D
+🇷🇺RU | VLESS Reality [gRPC]
+vless://c495cf08-e046-4311-aa4b-82cc16576992@all.adr-cloud.ru:444?encryption=none&security=reality&sni=ads.x5.ru&pbk=L0ZCh9LynIMEkK9BZq3gC--mzL6xnR4bkBJmXHSwVCM&sid=0614386789abcdef&type=grpc&authority=ads.x5.ru&serviceName=ads.x5.ru&mode=gun#%F0%9F%87%B7%F0%9F%87%BARU%20%7C%20VLESS%20Reality%20%5BgRPC%5D
 
 🇷🇺RU | VLESS Reality [Vision]
-vless://4184cd6e-804d-44dc-8d37-b68817403e36@51-wl.connect-opengate.ru:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=m.vk.com&fp=qq&pbk=SQR-dB6XWzUIXGegLRVV7wWcKtUlgmnpZH9uPJGQlA8&sid=e0120b358d718876&spx=%2F&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BARU%20%7C%20VLESS%20Reality%20%5BVision%5D
+vless://a91e64f0-9295-499d-bf4a-661ad99d4938@217.16.24.170:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api-maps.yandex.ru&fp=chrome&pbk=8OsJx6xuHcpL_5e1w0U4bMBa-icevDgvvzNwPwZbORQ&sid=5540e44a53c3d01c&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BARU%20%7C%20VLESS%20Reality%20%5BVision%5D
 
 🇷🇺RU | VLESS Reality [Vision]
-vless://eb7c7631-6c7c-4f34-a65a-974b4565d01d@217.16.24.170:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api-maps.yandex.ru&fp=edge&pbk=8OsJx6xuHcpL_5e1w0U4bMBa-icevDgvvzNwPwZbORQ&sid=5540e44a53c3d01c&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BARU%20%7C%20VLESS%20Reality%20%5BVision%5D
+vless://a91e64f0-9295-499d-bf4a-661ad99d4938@217.16.24.170:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api-maps.yandex.ru&fp=chrome&pbk=8OsJx6xuHcpL_5e1w0U4bMBa-icevDgvvzNwPwZbORQ&sid=5540e44a53c3d01c&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BARU%20%7C%20VLESS%20Reality%20%5BVision%5D
+
+🇷🇺RU | VLESS Reality [Vision]
+vless://9a5414b6-20b7-4313-8cd4-693d3c19ec05@217.12.40.76:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sun9-38.userapi.com&fp=qq&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=95ec618532fa065e&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BARU%20%7C%20VLESS%20Reality%20%5BVision%5D
+
+🇷🇺RU | VLESS Reality [Vision]
+vless://9a5414b6-20b7-4313-8cd4-693d3c19ec05@176.108.242.76:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.vkvideo.ru&fp=qq&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=17f0f0e38f01af5a&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BARU%20%7C%20VLESS%20Reality%20%5BVision%5D
+
+🇷🇺RU | VLESS Reality [Vision]
+vless://mega2057@5.129.249.134:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ir.ozone.ru&fp=chrome&pbk=F14RpPKCKo_qPcW7EFVu1M18JsAT8c04O08cIi0Ghg4&sid=ab1cd2&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BARU%20%7C%20VLESS%20Reality%20%5BVision%5D
+
+🇷🇺RU | VLESS Reality [Vision]
+vless://569041c6-9273-568a-811b-f709d4004014@5.129.249.134:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ir.ozone.ru&fp=chrome&pbk=F14RpPKCKo_qPcW7EFVu1M18JsAT8c04O08cIi0Ghg4&sid=ab1cd2&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BARU%20%7C%20VLESS%20Reality%20%5BVision%5D
+
+🇷🇺RU | VLESS Reality [Vision]
+vless://cbf1ec03-2cff-4b1f-9eb5-5929c13fc20c@wolfy.ufavpn.ru:27121?encryption=none&security=reality&sni=www.ok.ru&fp=chrome&pbk=QNLEBa5tV9JCrubA4hlAWhho06ddr2dtsT8LKZsGTgA&sid=fdc8125ea6f61323&spx=%2F&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BARU%20%7C%20VLESS%20Reality%20%5BVision%5D
+
+🇷🇺RU | VLESS Reality [Vision]
+vless://mega210@5.129.249.134:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ir.ozone.ru&fp=chrome&pbk=F14RpPKCKo_qPcW7EFVu1M18JsAT8c04O08cIi0Ghg4&sid=ab1cd2&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BARU%20%7C%20VLESS%20Reality%20%5BVision%5D
+
+🇷🇺RU | VLESS Reality
+vless://ded39de0-6d5e-426b-90e8-b7dfeced29b2@62.113.42.65:42275?encryption=none&security=reality&sni=eh.vk.com&fp=chrome&pbk=5Z8mktBAXgz88xCibv79NncelOS-3WAunfZNKnJRdUM&sid=08&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BARU%20%7C%20VLESS%20Reality
+
+🇷🇺RU | VLESS Reality [Vision]
+vless://f6b72cd6-7a18-5cb4-a912-70b9eeae9fc1@5.129.249.134:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ir.ozone.ru&fp=chrome&pbk=F14RpPKCKo_qPcW7EFVu1M18JsAT8c04O08cIi0Ghg4&sid=ab1cd2&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BARU%20%7C%20VLESS%20Reality%20%5BVision%5D
+
+🇷🇺RU | VLESS Reality [Vision]
+vless://cbf1ec03-2cff-4b1f-9eb5-5929c13fc20c@62.113.42.65:27121?encryption=none&security=reality&sni=www.ok.ru&fp=chrome&pbk=QNLEBa5tV9JCrubA4hlAWhho06ddr2dtsT8LKZsGTgA&sid=fdc8125ea6f61323&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BARU%20%7C%20VLESS%20Reality%20%5BVision%5D
+
+🇷🇺RU | VLESS Reality [Vision]
+vless://mega1775@5.129.249.134:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ir.ozone.ru&fp=chrome&pbk=F14RpPKCKo_qPcW7EFVu1M18JsAT8c04O08cIi0Ghg4&sid=ab1cd2&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BARU%20%7C%20VLESS%20Reality%20%5BVision%5D
+
+🇷🇺RU | VLESS Reality [Vision]
+vless://mega1849@5.129.249.134:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ir.ozone.ru&fp=chrome&pbk=F14RpPKCKo_qPcW7EFVu1M18JsAT8c04O08cIi0Ghg4&sid=ab1cd2&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BARU%20%7C%20VLESS%20Reality%20%5BVision%5D
+
+🇷🇺RU | VLESS Reality
+vless://97e7c83c-9346-49b4-85a5-1e3bbf7488b9@62.113.42.65:52900?encryption=none&security=reality&sni=ozon.ru&fp=chrome&pbk=AjYSCSFHfqOg-NbP_ngiRvJkKNKZXuHNDa1sJd4TRRQ&sid=1fbc&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BARU%20%7C%20VLESS%20Reality
+
+🇩🇪DE | VLESS Reality [Vision]
+vless://eb7c7631-6c7c-4f34-a65a-974b4565d01d@2-germany.geodema.network:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eh.vk.com&fp=chrome&pbk=8OsJx6xuHcpL_5e1w0U4bMBa-icevDgvvzNwPwZbORQ&sid=5540e44a53c3d01c&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AADE%20%7C%20VLESS%20Reality%20%5BVision%5D
