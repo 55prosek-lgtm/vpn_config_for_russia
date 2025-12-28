@@ -1,4 +1,4 @@
-New servers (29.03.2024)
+New servers (29.12.2025)
 
 🇺🇸US | Hysteria2
 hysteria2://dongtaiwang.com@208.87.243.187:22222?sni=sberbank.ru&insecure=1&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US%20%7C%20Hysteria2
