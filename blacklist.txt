@@ -1,93 +1,92 @@
+🇯🇵 JP | Trojan TLS
+trojan://64a59181551b5773e390bd717a7b7c06@153.121.51.29:400?security=tls&sni=www.nintendogames.net&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Chiyoda%20%7C%20%5BBL%5D
 
-🇩🇪DE | VLESS TLS
-vless://9cf7e4ab-0da9-4213-d376-8f9d91668daf@chatgpt.com:443?encryption=none&security=tls&sni=hajimamad.ladyy-collection.ir&insecure=0&allowInsecure=0&type=xhttp&host=hajimamad.ladyy-collection.ir&path=%2F&mode=auto#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BB%5D%20%7C%20%5BBL%5D
+🇺🇸 US | Trojan TLS
+trojan://64a59181551b5773e390bd717a7b7c06@160.16.236.32:1281?security=tls&sni=www.nintendogames.net&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Dallas%20%7C%20%5BBL%5D
 
-🇩🇪DE | VLESS Reality
-vless://ccedb1b1-35f3-46d1-a85a-c699eef5f3e1@5.254.85.151:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=germany.scroogethebest.com&fp=chrome&pbk=AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc&sid=4fa44664f6a566d3&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%5BBL%5D
+🇳🇱 NL | ShadowSocks
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.66:8080?#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%28Amsterdam-Noord%29%20%7C%20%5BBL%5D
 
-🇩🇪DE | VLESS Reality
-vless://ccedb1b1-35f3-46d1-a85a-c699eef5f3e1@5.254.85.152:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=germany.scroogethebest.com&fp=chrome&pbk=AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc&sid=4fa44664f6a566d3&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%5BBL%5D
+🇵🇱 PL | Trojan WebSocket TLS
+trojan://humanity@185.18.250.252:443?security=tls&sni=www.creationlong.org&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=www.creationlong.org&path=%2Fassignment#%F0%9F%87%B5%F0%9F%87%B1%20Poland%2C%20Warsaw%20%7C%20%5BBL%5D
 
-🇷🇺RU | VLESS Reality
-vless://ccedb1b1-35f3-46d1-a85a-c699eef5f3e1@85.239.47.127:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=spb.scroogethebest.com&fp=chrome&pbk=C3hc32Cknec2shasKJIH2DYVb7Fyu64RF9v71L3ipEg&sid=9c2378562188c3cb&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20Russia%2C%20St%20Petersburg%20%5BBL%5D
+🇭🇰 HK | Hysteria2
+hysteria2://cd7e0971-4b98-41fc-9ecb-1267a2b0e4f4@hkbgp.jjxcloud.xyz:8443?sni=hkbgp.jjxcloud.xyz&insecure=0&allowInsecure=0#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Hong%20Kong%20%7C%20%5BBL%5D
 
-🇷🇺RU | VLESS Reality
-vless://ccedb1b1-35f3-46d1-a85a-c699eef5f3e1@85.193.83.211:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=spb.scroogethebest.com&fp=chrome&pbk=C3hc32Cknec2shasKJIH2DYVb7Fyu64RF9v71L3ipEg&sid=9c2378562188c3cb&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20Russia%2C%20St%20Petersburg%20%5BBL%5D
+🇯🇵 JP | Trojan TLS
+trojan://64a59181551b5773e390bd717a7b7c06@160.16.72.33:3423?security=tls&sni=www.nintendogames.net&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Minato%20%7C%20%5BBL%5D
 
-🇪🇪EE | VLESS Reality
-vless://64f713ec-9f88-405f-9b74-9246e9acdcb6@ndt.fasti.win:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ndt.fasti.win&fp=chrome&pbk=XBBVeMURFu7jmYJ9MZwjEWgfQlGTnRs0B5So5Fy7jWs&sid=992f3294e2336744&type=tcp&headerType=none#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%2C%20Tallinn%20%5BBL%5D
+🇳🇱 NL | ShadowSocks
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8080?#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%28Amsterdam-Noord%29%20%7C%20%5BBL%5D
 
-🇩🇪DE | VLESS Reality
-vless://ccedb1b1-35f3-46d1-a85a-c699eef5f3e1@germany.scroogethebest.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=germany.scroogethebest.com&fp=chrome&pbk=AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc&sid=4fa44664f6a566d3&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%5BBL%5D
+🇵🇱 PL | Trojan WebSocket TLS
+trojan://humanity@www.creationlong.org:443?security=tls&sni=www.creationlong.org&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&path=%2Fassignment#%F0%9F%87%B5%F0%9F%87%B1%20Poland%2C%20Warsaw%20%7C%20%5BBL%5D
 
-🇬🇧GB | VLESS TLS
-vless://Parsashonam@chatgpt.com:2096?encryption=none&security=tls&sni=signup.atlasw.ir&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2F&mode=auto#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20Northolt%20%5BBL%5D
+🇺🇸 US | VMess WebSocket TLS
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzQ1x1RERGQVx1RDgzQ1x1RERGOCBVbml0ZWQgU3RhdGVzLCBTYW4gSm9zZSB8IFtCTF0iLA0KICAiYWRkIjogIjE2Ni42Mi4xMTAuMTk5IiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogImYwODM2OWQxLTVlZTctNGIxNi1kNzg2LTMwYmNlMTJmYzMzYyIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiL2YwODM2OWQxLTVlZTctNGIxNi1kNzg2LTMwYmNlMTJmYzMzYyIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJvdXMzLmRlYW41Mi50b3AiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIiwNCiAgImluc2VjdXJlIjogIjAiDQp9
 
-🇯🇵JP | VLESS Reality
-vless://15b84012-d261-4b4c-807a-061bb4a901fd@116.80.58.239:39975?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cloudcircus.jp&fp=chrome&pbk=qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY&type=tcp&headerType=none#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Chiyoda%20%5BBL%5D
+🇫🇷 FR | Trojan WebSocket TLS (Insecure)
+trojan://humanity@www.calmlunch.com:443?security=tls&sni=www.calmlunch.com&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=www.calmlunch.com&path=%2Fassignment#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
 
-🇩🇪DE | VLESS Reality
-vless://1c0d13b8-5924-4960-8022-66e0d5c888ab@176.123.160.4:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=de30.strelkavpn.com&fp=chrome&pbk=f4arBBBoT4Lb8CmgB7cl1VTF7rh0pfi2YwUDQFs5jRI&sid=67f1853b&spx=%2F&type=tcp&headerType=none#%F0%9F%8C%90%20Anycast-IP%20%7C%20DE%2C%20SK%20%7C%20%5BBL%5D
+🇳🇱 NL | ShadowSocks
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.186:8080?#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%28Amsterdam-Noord%29%20%7C%20%5BBL%5D
 
-🇸🇪SE | VLESS Reality
-vless://9a63b59c-5e54-437a-b7a1-2788780a7c13@62.182.196.134:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=retn.net&fp=chrome&pbk=qBcUlVqkzWxGORpDCj_FcNHACi3mrAYTCZeJyVQa5yU&sid=6b374e33af12fd1e&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%2C%20Sp%C3%A5nga%20%7C%20%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BBL%5D
+🇳🇱 NL | ShadowSocks
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.62:8080?#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%28Amsterdam-Noord%29%20%7C%20%5BBL%5D
 
-🇩🇪DE | VLESS Reality
-vless://98064528-8718-4f21-bd05-ae5785fbbd0a@87.106.37.221:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=azure.com&fp=chrome&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Berlin%20%5BBL%5D
+🇫🇷 FR | Trojan WebSocket TLS
+trojan://humanity@www.calmlunch.com:443?security=tls&sni=www.calmlunch.com&insecure=0&allowInsecure=0&type=ws&host=www.calmlunch.com&path=%2Fassignment#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
 
-🇩🇪DE | VLESS Reality
-vless://ccedb1b1-35f3-46d1-a85a-c699eef5f3e1@germany.scroogethebest.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=germany.scroogethebest.com&fp=random&pbk=AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc&sid=4fa44664f6a566d3&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%5BBL%5D
+🇺🇸 US | VMess WebSocket TLS
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzQ1x1RERGQVx1RDgzQ1x1RERGOCBVbml0ZWQgU3RhdGVzLCBTYW4gSm9zZSB8IFtCTF0iLA0KICAiYWRkIjogIjguMzQuMTQ2LjE5OSIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICJmMDgzNjlkMS01ZWU3LTRiMTYtZDc4Ni0zMGJjZTEyZmMzM2MiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIm91czMuZGVhbjUyLnRvcCIsDQogICJwYXRoIjogIi9mMDgzNjlkMS01ZWU3LTRiMTYtZDc4Ni0zMGJjZTEyZmMzM2MiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiIsDQogICJpbnNlY3VyZSI6ICIwIg0KfQ==
 
-🇯🇵JP | VMESS TLS
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzQ1x1RERFRlx1RDgzQ1x1RERGNSBKYXBhbiwgU2hpYnV5YSBDaXR5IFtCTF0iLA0KICAiYWRkIjogIm4xNzUzNTk4NDQ2LndwZzI3Lnh5eiIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICJhNTA0N2Q5NS0yNGI4LTQ1MWEtOTNlMy1mMmEzODdiOTNkNWEiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIm4xNzUzNTk4NDQ2LndwZzI3Lnh5eiIsDQogICJwYXRoIjogIi8iLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAibjE3NTM1OTg0NDYud3BnMjcueHl6IiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiIsDQogICJpbnNlY3VyZSI6ICIwIg0KfQ==
+🇫🇷 FR | Trojan WebSocket TLS
+trojan://humanity@185.18.250.252:443?security=tls&sni=www.calmlunch.com&insecure=0&allowInsecure=0&type=ws&host=www.calmlunch.com&path=%2Fassignment#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
 
-🇳🇱NL | SHADOWSOCKS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8080?#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%28Amsterdam-Noord%29%20%5BBL%5D
+🇫🇷 FR | Trojan WebSocket TLS (No SNI)
+trojan://humanity@www.calmlunch.com:443?security=tls&insecure=0&allowInsecure=0&type=ws&host=www.calmlunch.com&path=%2Fassignment#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
 
-🇭🇰HK | HYSTERIA2
-hysteria2://cd7e0971-4b98-41fc-9ecb-1267a2b0e4f4@hkbgp.jjxcloud.xyz:8443?sni=hkbgp.jjxcloud.xyz&insecure=0&allowInsecure=0#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Hong%20Kong%20%5BBL%5D
+🇭🇰 HK | Trojan TCP (Insecure)
+trojan://BxceQaOe@58.152.53.45:443?security=tls&sni=58.152.53.45&insecure=1&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Central%20%7C%20%5BBL%5D
 
-🇫🇷FR | TROJAN WS
-trojan://humanity@www.calmlunch.com:443?security=tls&sni=www.calmlunch.com&insecure=0&allowInsecure=0&type=ws&host=www.calmlunch.com&path=%2Fassignment#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%5BBL%5D
+🇳🇱 NL | ShadowSocks
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.189:8080?#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%28Amsterdam-Noord%29%20%7C%20%5BBL%5D
 
-🇳🇱NL | SHADOWSOCKS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.124:8080?#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%28Amsterdam-Noord%29%20%5BBL%5D
+🇺🇸 US | ShadowSocks
+ss://YWVzLTI1Ni1nY206d2xKU0YwZkM4dXFCNUdtNQ@94.72.127.55:80?#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Seattle%20%7C%20%5BBL%5D
 
-🇵🇱PL | TROJAN WS
-trojan://humanity@185.18.250.252:443?security=tls&sni=www.creationlong.org&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=www.creationlong.org&path=%2Fassignment#%F0%9F%87%B5%F0%9F%87%B1%20Poland%2C%20Warsaw%20%5BBL%5D
+🇺🇸 US | VMess WebSocket TLS
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzQ1x1RERGQVx1RDgzQ1x1RERGOCBVbml0ZWQgU3RhdGVzLCBTYW4gSm9zZSB8IFtCTF0iLA0KICAiYWRkIjogIjguMzQuMTQ2LjE5OSIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICJmMDgzNjlkMS01ZWU3LTRiMTYtZDc4Ni0zMGJjZTEyZmMzM2MiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIm91czMuZGVhbjUyLnRvcCIsDQogICJwYXRoIjogIi9mMDgzNjlkMS01ZWU3LTRiMTYtZDc4Ni0zMGJjZTEyZmMzM2MiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAib3VzMy5kZWFuNTIudG9wIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiIsDQogICJpbnNlY3VyZSI6ICIwIg0KfQ==
 
-🇭🇰HK | TROJAN TLS
-trojan://BxceQaOe@58.152.53.45:443?security=tls&sni=58.152.53.45&insecure=1&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Central%20%5BBL%5D
+🇵🇱 PL | Trojan WebSocket TLS
+trojan://humanity@www.creationlong.org:443?security=tls&sni=www.creationlong.org&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&path=%2Fassignment#%F0%9F%87%B5%F0%9F%87%B1%20Poland%2C%20Warsaw%20%7C%20%5BBL%5D
 
-🇺🇸US | VMESS TLS
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzQ1x1RERGQVx1RDgzQ1x1RERGOCBVbml0ZWQgU3RhdGVzLCBTYW4gSm9zZSBbQkxdIiwNCiAgImFkZCI6ICI4LjM0LjE0Ni4xOTkiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiZjA4MzY5ZDEtNWVlNy00YjE2LWQ3ODYtMzBiY2UxMmZjMzNjIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJvdXMzLmRlYW41Mi50b3AiLA0KICAicGF0aCI6ICIvZjA4MzY5ZDEtNWVlNy00YjE2LWQ3ODYtMzBiY2UxMmZjMzNjIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogIm91czMuZGVhbjUyLnRvcCIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiLA0KICAiaW5zZWN1cmUiOiAiMCINCn0=
+🇸🇪 SE | ShadowSocks
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYTjZYZjBacXdEZUZydDM5VFFyYWVu@45.80.231.75:31019?#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%2C%20Stockholm%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv4%2B6%5D%20%7C%20%5BBL%5D
 
-🇳🇱NL | SHADOWSOCKS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.62:8080?#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%28Amsterdam-Noord%29%20%5BBL%5D
+🇺🇸 US | Trojan TLS
+trojan://64a59181551b5773e390bd717a7b7c06@160.16.116.227:1281?security=tls&sni=www.nintendogames.net&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Dallas%20%7C%20%5BBL%5D
 
-🇭🇰HK | TROJAN TLS
-trojan://BxceQaOe@58.152.53.45:443?security=tls&fp=random&insecure=1&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Central%20%5BBL%5D
+🇳🇱 NL | VLESS HTTPUpgrade TLS
+vless://d1b421cc-ebaf-48cf-bf12-e7947af11c53@www.tgju.org:2087?encryption=none&security=tls&sni=rahgozar.italiantourism.net.&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=httpupgrade&host=rahgozar.italiantourism.net&path=%2Fhttpupgrade26070#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Eygelshoven%20%7C%20%5BBL%5D
 
-🇺🇸US | VMESS TLS
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzQ1x1RERGQVx1RDgzQ1x1RERGOCBVbml0ZWQgU3RhdGVzLCBTYW4gSm9zZSBbQkxdIiwNCiAgImFkZCI6ICIyMDkuNDYuMzAuMTk5IiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogImYwODM2OWQxLTVlZTctNGIxNi1kNzg2LTMwYmNlMTJmYzMzYyIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiL2YwODM2OWQxLTVlZTctNGIxNi1kNzg2LTMwYmNlMTJmYzMzYyIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJvdXMzLmRlYW41Mi50b3AiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIiwNCiAgImluc2VjdXJlIjogIjAiDQp9
+🌍 Anycast-IP | VLESS XHTTP
+vless://9d47b3a7-ef82-4f7b-916e-94afb669bc76@chatgpt.com:2082?encryption=none&security=none&type=xhttp&host=ppppppppo-181761666666-ccczzzzzzzz.poshakhowdy.ir&path=%2FPHPmyADMIN%3FQ%3D%2Fwww.speedtest.net-www.speedtest.net%3Fed%3D2768&mode=auto#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BBL%5D
 
-🇳🇱NL | SHADOWSOCKS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.69:8080?#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%28Amsterdam-Noord%29%20%5BBL%5D
+🇷🇺 RU | VLESS Reality
+vless://b67f0dc0-42ee-4067-a16f-f5018547aebd@ru2.sky-vault.top:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ru2.sky-vault.top&fp=chrome&pbk=_KTsOFhGnC0W28ZqO8_FApozMp7tJ9cVBTLKLAA_OR0&sid=ae64c9b46bff174a&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20Russia%2C%20Moscow%20%28Vostochnyy%20administrativnyy%20okrug%29%20%7C%20%5BBL%5D
 
-🇸🇬SG | TROJAN TLS
-trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.81.84:3901?security=tls&sni=www.nintendogames.net&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%5BBL%5D
+🌍 Anycast-IP | VLESS XHTTP TLS
+vless://9cf7e4ab-0da9-4213-d376-8f9d91668daf@chatgpt.com:443?encryption=none&security=tls&sni=hajimamad.ladyy-collection.ir&insecure=0&allowInsecure=0&type=xhttp&host=hajimamad.ladyy-collection.ir&path=%2F&mode=auto#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv4%2B6%5D%20%7C%20%5BBL%5D
 
-🇺🇸US | TROJAN TLS
-trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@153.121.65.107:1281?security=tls&sni=www.nintendogames.net&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Dallas%20%5BBL%5D
+🌍 Anycast-IP | VLESS gRPC TLS
+vless://e4824193-4f54-453b-d037-88368e85ef0e@chatgpt.com:443?encryption=none&security=tls&sni=pqh30v4.carwashipdir.shop&fp=chrome&insecure=0&allowInsecure=0&type=grpc#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BBL%5D
 
-🇳🇱NL | SHADOWSOCKS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080?#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%28Amsterdam-Noord%29%20%5BBL%5D
+🇩🇪 DE | VLESS WebSocket TLS
+vless://c4baefee-fc4c-42ed-b19c-5d5f7dad36ba@c8f7b1ab85189cf5.first.sapienza-mahan.ir:443?encryption=none&security=tls&sni=harro-likeh1.sdcards1.ir&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&path=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Nuremberg%20%7C%20%5BBL%5D
 
-🇫🇷FR | TROJAN WS
-trojan://humanity@185.18.250.245:443?security=tls&sni=www.calmlunch.com&fp=random&insecure=1&allowInsecure=1&type=ws&host=www.calmlunch.com&path=%2Fassignment#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%5BBL%5D
+🇩🇪 DE | VLESS XHTTP TLS
+vless://4eb3d390-95d6-4667-bc3f-2e0fa606daa0@129.6.29.86:2053?encryption=none&security=tls&sni=myopen.tencan.ir&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=xhttp&path=%2F&mode=auto#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Nuremberg%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
 
-🇯🇵JP | TROJAN TLS
-trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.130.21:3423?security=tls&sni=www.nintendogames.net&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Minato%20%5BBL%5D
-
-🇳🇱NL | SHADOWSOCKS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.190:8080?#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%28Amsterdam-Noord%29%20%5BBL%5D
+🇱🇻 LV | VLESS Reality
+vless://b3172ad4-d309-47b2-9e1a-12fbc16fd963@31.170.22.193:47997?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=cFora2YYa3aZdpWW8vMD9iX97qRKtyLzXv4pWgXoh20&sid=ead461&type=tcp&headerType=none#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%2C%20Riga%20%28Latgales%20priek%C5%A1pils%C4%93ta%29%20%7C%20%5BBL%5D
